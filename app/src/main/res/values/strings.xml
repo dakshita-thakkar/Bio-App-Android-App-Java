@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Dakshita Thakkar</string>
+    <string name="my_bio">\nHello! My name is Dakshita. I am a Software Development enthusiast and here is my brief intro!\n\n
+        <b>Education:</b>\n
+        ->Completed 10th from Sri Sri Ravishankar Vidya Mandir, Mulund, Mumbai.\n
+        ->Completed 12th from Mulund Vidya Mandir Junior College, Mulund, Mumbai.\n
+        ->Graduated in BSc Microbiology from Mithibai College, Mumbai.\n
+        ->Currently pursuing MCA from NMIMS MPSTME, Mumbai.\n\n
+
+        <b>Languages Known:</b>\n
+        ->HTML, CSS\n
+        ->Javascript\n
+        ->Java\n
+        ->JSP\n
+        ->Servlet\n
+        ->Spring Boot\n
+        ->SQL\n
+        ->PL/SQL\n
+        ->R programming\n
+        ->Python\n\n
+
+        <b>Technologies That I have Worked With:</b>\n
+        ->Android Studio\n
+        ->IntellijIdea\n
+        ->Eclipse\n
+        ->Tableau\n
+        ->MySql Workbench\n
+
+        ->PostgreSql\n
+        ->Google BigQuery\n
+        ->XAMMP\n
+        ->phpMyAdmin\n
+
+    </string>
+    <string name="hobbies">Enter Your Hobbies:</string>
+    <string name="btn_done_text">Done</string>
+    <string name="image_description">my image</string>
+    <string name="auto_fill_hints">Keyboard</string>
+</resources>
